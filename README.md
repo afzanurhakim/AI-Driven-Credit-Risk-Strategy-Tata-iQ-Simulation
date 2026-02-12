@@ -24,10 +24,10 @@ Strategic Pivot: Proposed shifting the collections narrative from "Debt Recovery
 
 ## Deliverables
 
-[EDA Summary Report]()
+[EDA Summary Report](https://github.com/afzanurhakim/AI-Driven-Credit-Risk-Strategy-Tata-iQ-Simulation/blob/main/Documentation/EDA_SummaryReport.pdf)
 
-[Predictive Model Plan]()
+[Predictive Model Plan](https://github.com/afzanurhakim/AI-Driven-Credit-Risk-Strategy-Tata-iQ-Simulation/blob/main/Documentation/Task%202_ModelPlan.pdf)
 
-[Business Summary Report]()
+[Business Summary Report](https://github.com/afzanurhakim/AI-Driven-Credit-Risk-Strategy-Tata-iQ-Simulation/blob/main/Documentation/Updated_Business_Summary_Report.pdf)
 
-[Final Business Presentation]()
+[Final Business Presentation](https://github.com/afzanurhakim/AI-Driven-Credit-Risk-Strategy-Tata-iQ-Simulation/blob/main/Presentation/Presentation.pdf)
